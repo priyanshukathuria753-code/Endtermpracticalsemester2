@@ -1,6 +1,6 @@
-import {Home} from './components/Home'
-import {About} from './components/About'
-import {Context} from './components/Contact'
+import {Home} from './Components/Home'
+import {About} from './Components/About'
+import {Context} from './Components/Context'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 function App(){
